@@ -1,0 +1,27 @@
+{
+  "name": "mipaquetenpm",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "main.js",
+  "dependencies": {
+    "browserify": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvaradoAdam15/NodeJs.git"
+  },
+  "keywords": [
+    "Hello",
+    "World"
+  ],
+  "author": "adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlvaradoAdam15/NodeJs/issues"
+  },
+  "homepage": "https://github.com/AlvaradoAdam15/NodeJs#readme"
+}
